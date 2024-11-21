@@ -2,6 +2,6 @@
 layout: layout.njk
 ---
 
-# sailing
+# My best friends
 
 this is not about sailing
