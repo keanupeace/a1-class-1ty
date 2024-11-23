@@ -3,7 +3,7 @@
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Document</title>
+     <title>{{ title }}</title> Boris
      <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
@@ -13,6 +13,10 @@
           </div>
           {% include 'nav.html'%}
      </header>
-     {{content | safe}}
+     <div class="hero {{ pageClass}}">
+          <h1> {{ title }} </h1>
+     </div>
+     {{ content | safe }}
+     <script src="../js/script.js"></script>
 </body>
 </html>

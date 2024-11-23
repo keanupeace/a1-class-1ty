@@ -1,7 +1,13 @@
 ---
 layout: layout.njk
----
+title: Activities
+pageClass: activities
 
-# My favourite things to do
+---
+<div class=" text">
+
+
 
 please help me
+
+</div>

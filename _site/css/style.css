@@ -13,6 +13,20 @@ body {
   font-weight: 300;
   font-size: 1.4em;
 }
+.hero {
+  height: 50vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: 50% 50%;
+  h1 {
+    font-size: 4rem;
+  }
+}
+&.myfriends {
+  background-image: url('../');
+}
 .title {
   color: rgb(166, 162, 158);
 }
@@ -36,6 +50,10 @@ header a {
 }
 .menu a:hover {
   color: rgb(255, 255, 255);
+}
+
+.text {
+  padding: 20%;
 }
 
 /*# sourceMappingURL=style.css.map */
