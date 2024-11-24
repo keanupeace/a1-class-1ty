@@ -7,7 +7,6 @@ pageClass: activities
 <div class=" text">
 
 
-
-please help me
+I like to attack things
 
 </div>

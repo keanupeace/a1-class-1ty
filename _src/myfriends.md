@@ -8,6 +8,6 @@ pageClass: myfriends
 
 
 
-this is not about sailing
+Some of my best friends are Keanu and Kenzie
 
 </div>
