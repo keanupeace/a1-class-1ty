@@ -68,5 +68,25 @@ header a {
 .text {
   padding: 20%;
 }
+.friends {
+  padding-left: 25%;
+  width: 50%;
+}
+
+.activies {
+  display: flex;
+  padding: 10%;
+
+}
+.sleep  {
+  max-width: 50%;
+  max-height: 50%;
+  padding-left: 1vw;
+}
+.attack {
+  max-width: 50%;
+  max-height: 50%;
+  padding-right: 1vw;
+} 
 
 /*# sourceMappingURL=style.css.map */
