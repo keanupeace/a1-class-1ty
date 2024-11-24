@@ -13,20 +13,33 @@ body {
   font-weight: 300;
   font-size: 1.4em;
 }
+
 .hero {
-  height: 50vw;
   display: flex;
   justify-content: center;
   align-items: center;
+  h1 {
+    color: rgb(0, 0, 0);
+    font-size: 4rem;
+    font-family: monospace;
+  }
+  &.home {
+  height: 50vw;
+  
   background-size: cover;
   background-position: 50% 50%;
+  background-repeat: no-repeat;
   h1 {
+    color: rgb(0, 0, 0);
     font-size: 4rem;
+    font-family: monospace;
   }
+  
+    background-image: url('../images/boris.JPG');
+  }
+  
 }
-&.myfriends {
-  background-image: url('../images/boris_friends.JPG');
-}
+
 .title {
   color: rgb(166, 162, 158);
 }

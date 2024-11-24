@@ -7,6 +7,6 @@ pageClass: activities
 <div class=" text">
 
 
-I like to attack things
+One of my favourite things to do is attack things, like my friends, but they get kinda mad when I do that, not that I'm gonna stop doing it or anything. I of course love to eat. Whatever is in this brown crunchy delight is sooooo good. Then after all the attacking and eating, I go to sleep, wherever I please.
 
 </div>
